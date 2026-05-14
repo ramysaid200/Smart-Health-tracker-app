@@ -1,0 +1,36 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Android
+android/**/generated/
+android/app/src/main/res/values/google-services.json
+android/local.properties
+android/.gradle/
+
+# iOS
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Web
+build/web/
+
+# Windows
+build/windows/
+
+# macOS
+build/macos/
+
+# Linux
+build/linux/
