@@ -1,0 +1,59 @@
+name: smart_health_tracker
+description: A professional Flutter Smart Health Tracker app with Firebase backend.
+repository: https://github.com/ramysaid200/Smart-Health-tracker-app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  provider: ^6.1.2
+
+  # Firebase
+  firebase_core: ^4.8.0
+  firebase_auth: ^6.5.0
+  cloud_firestore: ^6.4.0
+  firebase_messaging: ^16.2.1
+
+  # Local Storage
+  shared_preferences: ^2.3.2
+
+  # Notifications
+  flutter_local_notifications: ^21.0.0
+  timezone: ^0.11.0
+
+  # UI & Theming
+  google_fonts: ^8.1.0
+  animate_do: ^5.1.0
+  shimmer: ^3.0.0
+
+  # Charts
+  fl_chart: ^1.2.0
+
+  # Images
+  cached_network_image: ^3.4.1
+
+  # Date & Time
+  intl: ^0.20.2
+
+  # Icons
+  cupertino_icons: ^1.0.8
+
+  # Utilities
+  uuid: ^4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
