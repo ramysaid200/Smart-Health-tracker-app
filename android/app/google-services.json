@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "506718619542",
+    "project_id": "smart-health-tracker-app-11471",
+    "storage_bucket": "smart-health-tracker-app-11471.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506718619542:android:5516b116d2f7b734a47fb7",
+        "android_client_info": {
+          "package_name": "com.example.smart_health_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506718619542-ut15otd7lqjpipp9j32qr3553ap7ouks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr3OlfpJFZ7bk-LlSsSgTmGk2SHr178EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506718619542-ut15otd7lqjpipp9j32qr3553ap7ouks.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "506718619542-2qm1t7b8vm1pf17qd28p5kcj3n4viskn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.healthtracker.smartHealthTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506718619542:android:15126bebf2f60f48a47fb7",
+        "android_client_info": {
+          "package_name": "com.healthtracker.smart_health_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506718619542-ut15otd7lqjpipp9j32qr3553ap7ouks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr3OlfpJFZ7bk-LlSsSgTmGk2SHr178EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506718619542-ut15otd7lqjpipp9j32qr3553ap7ouks.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "506718619542-2qm1t7b8vm1pf17qd28p5kcj3n4viskn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.healthtracker.smartHealthTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
