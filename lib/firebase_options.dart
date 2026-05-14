@@ -33,31 +33,34 @@ class DefaultFirebaseOptions {
   }
 
   // TODO: Replace with real values from Firebase Console
-  // Project: project-566847679576 (Smart Health Tracker App)
+
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'REPLACE_WITH_YOUR_API_KEY',
-    appId: 'REPLACE_WITH_YOUR_APP_ID',
-    messagingSenderId: 'REPLACE_WITH_YOUR_SENDER_ID',
-    projectId: 'project-566847679576',
-    authDomain: 'project-566847679576.firebaseapp.com',
-    storageBucket: 'project-566847679576.firebasestorage.app',
+    apiKey: 'AIzaSyB_pwO-9_k44MIBBUfWapYOcjjb7123UQg',
+    appId: '1:566847679576:web:2cf5015c26bb31ca106e2d',
+    messagingSenderId: '566847679576',
+    projectId: 'smart-health-tracker-app',
+    authDomain: 'smart-health-tracker-app.firebaseapp.com',
+    storageBucket: 'smart-health-tracker-app.firebasestorage.app',
+    measurementId: 'G-E9VZFF5GEN',
   );
 
+  // Project: project-566847679576 (Smart Health Tracker App)
+
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDr3OlfpJFZ7bk-LlSsSgTmGk2SHr178EI',
-    appId: '1:506718619542:android:15126bebf2f60f48a47fb7',
-    messagingSenderId: '506718619542',
-    projectId: 'smart-health-tracker-app-11471',
-    storageBucket: 'smart-health-tracker-app-11471.firebasestorage.app',
+    apiKey: 'AIzaSyDFiymPRJn6fhMDGAs9NNetzSxGPCy6XAo',
+    appId: '1:566847679576:android:de4862552e4e3b79106e2d',
+    messagingSenderId: '566847679576',
+    projectId: 'smart-health-tracker-app',
+    storageBucket: 'smart-health-tracker-app.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAMTPu-sjqos-BC26WvuKXBArb-yfbqk_A',
-    appId: '1:506718619542:ios:21e32e1a6f158106a47fb7',
-    messagingSenderId: '506718619542',
-    projectId: 'smart-health-tracker-app-11471',
-    storageBucket: 'smart-health-tracker-app-11471.firebasestorage.app',
-    iosClientId: '506718619542-2qm1t7b8vm1pf17qd28p5kcj3n4viskn.apps.googleusercontent.com',
+    apiKey: 'AIzaSyA0xQml1wjXIOvmJXl9EwcBckgb0O-ZpvE',
+    appId: '1:566847679576:ios:81f90b3be1f91a67106e2d',
+    messagingSenderId: '566847679576',
+    projectId: 'smart-health-tracker-app',
+    storageBucket: 'smart-health-tracker-app.firebasestorage.app',
+    iosClientId: '566847679576-6rvpiaatku7dt0m7qk6faihls3asc0dr.apps.googleusercontent.com',
     iosBundleId: 'com.healthtracker.smartHealthTracker',
   );
 
